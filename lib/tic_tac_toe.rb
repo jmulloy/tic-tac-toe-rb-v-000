@@ -107,3 +107,6 @@ end
   end
   return counter
 end
+def play(board)
+  turn(board)
+end
